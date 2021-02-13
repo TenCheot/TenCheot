@@ -1,16 +1,16 @@
-### Hi there 👋
+# TenCheot
 
-<!--
-**TenCheot/TenCheot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 간단 자기소개
+- 직업 : WHALE 대표이사
+- 기술 : FullStack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 연혁
+- (20.05.15) Whale Corporation 설립
+- (20.10.15) 웨일클라우드(WhaleCloud) 설립
+
+## 관심사 👀
+- 서버 하드웨어
+- 회계 업무
+- 프로그래밍
