@@ -18,6 +18,3 @@
 - 서버 하드웨어 기술관련
 - 회사 회계 업무
 - 프로그래밍
-
-### My stats ⚡
-![TenCheot github stats](https://github-readme-stats.vercel.app/api?username=TenCheot&show_icons=true&theme=solarized-light)
